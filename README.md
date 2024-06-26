@@ -16,7 +16,7 @@ It consisted of two steps:
   1)Solution generation where i generated set of optimal solutions
   2)Evaluation for the solutions generated for the maze problem
 
-Project flow for maze solver
+**Project flow for maze solver**
 
 I used the toolbox library and feeded 4 directions to it.Using random generator i generated 100 characters that made one individual. Similarly generated upto 100 
 solutions for the problem.
